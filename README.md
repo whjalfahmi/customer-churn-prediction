@@ -32,11 +32,14 @@ Methodology
 7. Trained and compared Logistic Regression and Random Forest classifiers.
 8. Evaluated the models using Accuracy, Precision, Recall, F1-score, and confusion matrices.
 
-Results
 
-Model	Accuracy	Precision	Recall	F1-score
-Logistic Regression	80.38%	64.76%	57.49%	60.91%
-Random Forest	78.82%	62.34%	51.34%	56.30%
+## Results
+
+| Model | Accuracy | Precision | Recall | F1-score |
+|---|---:|---:|---:|---:|
+| Logistic Regression | 80.38% | 64.76% | 57.49% | 60.91% |
+| Random Forest | 78.82% | 62.34% | 51.34% | 56.30% |
+
 
 Logistic Regression achieved higher scores across all four evaluation metrics in this experiment.
 
