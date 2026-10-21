@@ -5,8 +5,10 @@ Project Overview
 This academic team project uses machine learning to predict customer churn in a telecommunications company. It compares two classification models to identify customers who are likely to leave the service.
 
 Dataset
+## Source
 
-* Source: Telco Customer Churn Dataset — Kaggle
+- [Telco Customer Churn Dataset — Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+  
 * Original records: 7,043
 * Original features: 21
 * Target variable: Churn
@@ -47,9 +49,10 @@ My Contribution
 
 My individual contribution focused on initial data exploration and data cleaning, including inspecting the dataset with Pandas, checking for missing values and duplicates, converting TotalCharges to numeric format, and handling the resulting missing values.
 
-Project File
 
-* customer_churn_prediction.ipynb — Jupyter Notebook containing the project code and analysis.
+
+## Project File
+- [Customer Churn Prediction Notebook](./customer_churn_prediction.ipynb)
 
 Note
 
