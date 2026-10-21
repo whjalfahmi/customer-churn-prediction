@@ -50,9 +50,8 @@ My Contribution
 My individual contribution focused on initial data exploration and data cleaning, including inspecting the dataset with Pandas, checking for missing values and duplicates, converting TotalCharges to numeric format, and handling the resulting missing values.
 
 
-
 ## Project File
-- [Customer Churn Prediction Notebook](./customer_churn_prediction.ipynb)
+- [Customer Churn Prediction Notebook](./customer-churn-prediction.ipynb)
 
 Note
 
